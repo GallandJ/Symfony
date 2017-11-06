@@ -1,0 +1,7 @@
+oc_platform:
+    resource: "@OCPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
+oc_test:
+    resource: "@OCTestBundle/Resources/config/routing.yml"
+    prefix:   /
